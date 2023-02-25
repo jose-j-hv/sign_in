@@ -1,0 +1,10 @@
+conda install -c anaconda pyqt
+
+conda install -c anaconda ninja
+
+conda install -c anaconda qt
+
+
+  pip install pip install Ninja-Preview
+pip install pyqt5
+
