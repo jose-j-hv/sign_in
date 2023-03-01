@@ -7,7 +7,7 @@ Component {
         Rectangle {
             anchors.fill:parent
             Image{
-                sourceSize: Qt.size(parent.width, parent.height)
+                sourceSize: Qt.size(parent.width,parent.height)
                 fillMode: Image.PreserveAspectCrop
                 anchors.centerIn: parent
                 source: "./images/dos.png"
@@ -18,7 +18,7 @@ Component {
             anchors.centerIn: parent
             text: username + " you have been signed"
             font.pixelSize:16
-            color: "white "
+            color: "white"
         }
     }
 }
